@@ -15,7 +15,7 @@ export default function Page() {
         </nav>
       </header>
       <main className="text-my-neutral-0">
-        <div className="mx-auto mt-6 max-w-3xl text-center md:mt-20">
+        <div className="mx-auto mt-6 max-w-3xl text-center md:mt-18">
           <h1
             className={cn(
               bricolageGrotesque.variable,
